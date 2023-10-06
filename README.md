@@ -4,8 +4,10 @@ Author:
 <br/>
 - Thiago Soares de Souza
 <br/>
+
 ## About me
 <br/>
+
 I have a bachelor degree in computer science from Catholic University of Pernambuco, Recife, Brazil. I am currently pursuing further learning as Information Technology Programmer Analyst at LaSalle College - Montreal.
 
 I consider myself a self-starter, team player and proactive person. I am always looking for new challenges and ways to improve my skills. My passion is software development, which drives me to push myself outside of my comfort zone to acquire new knowledge and embrace new challenges.
