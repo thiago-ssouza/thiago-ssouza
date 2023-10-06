@@ -6,7 +6,6 @@ Author:
 <br/>
 ## About me
 <br/>
-<br/>
 I have a bachelor degree in computer science from Catholic University of Pernambuco, Recife, Brazil. I am currently pursuing further learning as Information Technology Programmer Analyst at LaSalle College - Montreal.
 
 I consider myself a self-starter, team player and proactive person. I am always looking for new challenges and ways to improve my skills. My passion is software development, which drives me to push myself outside of my comfort zone to acquire new knowledge and embrace new challenges.
@@ -19,7 +18,6 @@ I can to speak:
 - Portuguese (Native and Full Work Proficiency)
 
 Please feel free to contact me. I would be happy to have a good chat, professional or personal.
-<br/>
 <br/>
 ## Thiago Soares de Souza Portfolio Website
 - [https://thiago-ssouza.github.io/portfolio](https://thiago-ssouza.github.io/portfolio)
