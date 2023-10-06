@@ -21,7 +21,7 @@ I can to speak:
 
 Please feel free to contact me. I would be happy to have a good chat, professional or personal.
 <br/>
-## Thiago Soares de Souza Portfolio Website
+## Thiago Soares de Souza's Portfolio Website
 - [https://thiago-ssouza.github.io/portfolio](https://thiago-ssouza.github.io/portfolio)
 
 ## thiagos-souza Linkedin
