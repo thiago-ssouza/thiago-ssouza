@@ -12,7 +12,7 @@ I have a bachelor degree in computer science from Catholic University of Pernamb
 
 I consider myself a self-starter, team player and proactive person. I am always looking for new challenges and ways to improve my skills. My passion is software development, which drives me to push myself outside of my comfort zone to acquire new knowledge and embrace new challenges.
 
-I can to speak:
+I can speak:
 
 - French (Limited Work Proficiency)
 - English (Full Work Proficiency)
